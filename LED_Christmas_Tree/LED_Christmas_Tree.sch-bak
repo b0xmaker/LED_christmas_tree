@@ -1,0 +1,612 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D?
+U 1 1 61FEFC0B
+P 1300 2300
+F 0 "D?" V 1247 2378 50  0000 L CNN
+F 1 "LED" V 1338 2378 50  0000 L CNN
+F 2 "" H 1300 2300 50  0001 C CNN
+F 3 "~" H 1300 2300 50  0001 C CNN
+	1    1300 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FF0B82
+P 1700 2300
+F 0 "D?" V 1647 2378 50  0000 L CNN
+F 1 "LED" V 1738 2378 50  0000 L CNN
+F 2 "" H 1700 2300 50  0001 C CNN
+F 3 "~" H 1700 2300 50  0001 C CNN
+	1    1700 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FF1178
+P 2100 2300
+F 0 "D?" V 2047 2378 50  0000 L CNN
+F 1 "LED" V 2138 2378 50  0000 L CNN
+F 2 "" H 2100 2300 50  0001 C CNN
+F 3 "~" H 2100 2300 50  0001 C CNN
+	1    2100 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FF117E
+P 2500 2300
+F 0 "D?" V 2447 2378 50  0000 L CNN
+F 1 "LED" V 2538 2378 50  0000 L CNN
+F 2 "" H 2500 2300 50  0001 C CNN
+F 3 "~" H 2500 2300 50  0001 C CNN
+	1    2500 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FF1704
+P 2900 2300
+F 0 "D?" V 2847 2378 50  0000 L CNN
+F 1 "LED" V 2938 2378 50  0000 L CNN
+F 2 "" H 2900 2300 50  0001 C CNN
+F 3 "~" H 2900 2300 50  0001 C CNN
+	1    2900 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FF170A
+P 3300 2300
+F 0 "D?" V 3247 2378 50  0000 L CNN
+F 1 "LED" V 3338 2378 50  0000 L CNN
+F 2 "" H 3300 2300 50  0001 C CNN
+F 3 "~" H 3300 2300 50  0001 C CNN
+	1    3300 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 61FF1D48
+P 2350 2900
+F 0 "R?" H 2420 2946 50  0000 L CNN
+F 1 "R" H 2420 2855 50  0000 L CNN
+F 2 "" V 2280 2900 50  0001 C CNN
+F 3 "~" H 2350 2900 50  0001 C CNN
+	1    2350 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Q_PNP_BCE Q?
+U 1 1 61FF294C
+P 2250 3550
+F 0 "Q?" H 2440 3596 50  0000 L CNN
+F 1 "Q_PNP_BCE" H 2440 3505 50  0000 L CNN
+F 2 "" H 2450 3650 50  0001 C CNN
+F 3 "~" H 2250 3550 50  0001 C CNN
+	1    2250 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C?
+U 1 1 61FF3AF8
+P 3200 3200
+F 0 "C?" V 2945 3200 50  0000 C CNN
+F 1 "CP" V 3036 3200 50  0000 C CNN
+F 2 "" H 3238 3050 50  0001 C CNN
+F 3 "~" H 3200 3200 50  0001 C CNN
+	1    3200 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 61FF4A06
+P 900 2900
+F 0 "R?" H 970 2946 50  0000 L CNN
+F 1 "R" H 970 2855 50  0000 L CNN
+F 2 "" V 830 2900 50  0001 C CNN
+F 3 "~" H 900 2900 50  0001 C CNN
+	1    900  2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FFBEFC
+P 4300 2300
+F 0 "D?" V 4247 2378 50  0000 L CNN
+F 1 "LED" V 4338 2378 50  0000 L CNN
+F 2 "" H 4300 2300 50  0001 C CNN
+F 3 "~" H 4300 2300 50  0001 C CNN
+	1    4300 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FFBF02
+P 4700 2300
+F 0 "D?" V 4647 2378 50  0000 L CNN
+F 1 "LED" V 4738 2378 50  0000 L CNN
+F 2 "" H 4700 2300 50  0001 C CNN
+F 3 "~" H 4700 2300 50  0001 C CNN
+	1    4700 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FFBF08
+P 5100 2300
+F 0 "D?" V 5047 2378 50  0000 L CNN
+F 1 "LED" V 5138 2378 50  0000 L CNN
+F 2 "" H 5100 2300 50  0001 C CNN
+F 3 "~" H 5100 2300 50  0001 C CNN
+	1    5100 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FFBF0E
+P 5500 2300
+F 0 "D?" V 5447 2378 50  0000 L CNN
+F 1 "LED" V 5538 2378 50  0000 L CNN
+F 2 "" H 5500 2300 50  0001 C CNN
+F 3 "~" H 5500 2300 50  0001 C CNN
+	1    5500 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FFBF14
+P 5900 2300
+F 0 "D?" V 5847 2378 50  0000 L CNN
+F 1 "LED" V 5938 2378 50  0000 L CNN
+F 2 "" H 5900 2300 50  0001 C CNN
+F 3 "~" H 5900 2300 50  0001 C CNN
+	1    5900 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61FFBF1A
+P 6300 2300
+F 0 "D?" V 6247 2378 50  0000 L CNN
+F 1 "LED" V 6338 2378 50  0000 L CNN
+F 2 "" H 6300 2300 50  0001 C CNN
+F 3 "~" H 6300 2300 50  0001 C CNN
+	1    6300 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 61FFBF20
+P 5350 2900
+F 0 "R?" H 5420 2946 50  0000 L CNN
+F 1 "R" H 5420 2855 50  0000 L CNN
+F 2 "" V 5280 2900 50  0001 C CNN
+F 3 "~" H 5350 2900 50  0001 C CNN
+	1    5350 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Q_PNP_BCE Q?
+U 1 1 61FFBF26
+P 5250 3550
+F 0 "Q?" H 5440 3596 50  0000 L CNN
+F 1 "Q_PNP_BCE" H 5440 3505 50  0000 L CNN
+F 2 "" H 5450 3650 50  0001 C CNN
+F 3 "~" H 5250 3550 50  0001 C CNN
+	1    5250 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C?
+U 1 1 61FFBF2C
+P 6550 3150
+F 0 "C?" V 6295 3150 50  0000 C CNN
+F 1 "CP" V 6386 3150 50  0000 C CNN
+F 2 "" H 6588 3000 50  0001 C CNN
+F 3 "~" H 6550 3150 50  0001 C CNN
+	1    6550 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 61FFBF32
+P 4000 2850
+F 0 "R?" H 4070 2896 50  0000 L CNN
+F 1 "R" H 4070 2805 50  0000 L CNN
+F 2 "" V 3930 2850 50  0001 C CNN
+F 3 "~" H 4000 2850 50  0001 C CNN
+	1    4000 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C?
+U 1 1 62002F03
+P 900 4050
+F 0 "C?" V 645 4050 50  0000 C CNN
+F 1 "CP" V 736 4050 50  0000 C CNN
+F 2 "" H 938 3900 50  0001 C CNN
+F 3 "~" H 900 4050 50  0001 C CNN
+	1    900  4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 2150 1700 2150
+Connection ~ 1700 2150
+Wire Wire Line
+	1700 2150 2100 2150
+Connection ~ 2100 2150
+Wire Wire Line
+	2100 2150 2500 2150
+Connection ~ 2500 2150
+Wire Wire Line
+	2500 2150 2900 2150
+Connection ~ 2900 2150
+Wire Wire Line
+	2900 2150 3300 2150
+Connection ~ 3300 2150
+Wire Wire Line
+	3300 2150 4000 2150
+Connection ~ 4300 2150
+Wire Wire Line
+	4300 2150 4700 2150
+Connection ~ 4700 2150
+Wire Wire Line
+	4700 2150 5100 2150
+Connection ~ 5100 2150
+Wire Wire Line
+	5100 2150 5500 2150
+Connection ~ 5500 2150
+Wire Wire Line
+	5500 2150 5900 2150
+Wire Wire Line
+	5900 2150 6300 2150
+Connection ~ 5900 2150
+Wire Wire Line
+	1300 2150 900  2150
+Connection ~ 1300 2150
+Wire Wire Line
+	2050 3550 900  3550
+Wire Wire Line
+	900  2150 900  2750
+Wire Wire Line
+	900  3550 900  3900
+Connection ~ 900  3550
+$Comp
+L Device:LED D?
+U 1 1 6200EB59
+P 7350 2300
+F 0 "D?" V 7297 2378 50  0000 L CNN
+F 1 "LED" V 7388 2378 50  0000 L CNN
+F 2 "" H 7350 2300 50  0001 C CNN
+F 3 "~" H 7350 2300 50  0001 C CNN
+	1    7350 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 6200EB5F
+P 7750 2300
+F 0 "D?" V 7697 2378 50  0000 L CNN
+F 1 "LED" V 7788 2378 50  0000 L CNN
+F 2 "" H 7750 2300 50  0001 C CNN
+F 3 "~" H 7750 2300 50  0001 C CNN
+	1    7750 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 6200EB65
+P 8150 2300
+F 0 "D?" V 8097 2378 50  0000 L CNN
+F 1 "LED" V 8188 2378 50  0000 L CNN
+F 2 "" H 8150 2300 50  0001 C CNN
+F 3 "~" H 8150 2300 50  0001 C CNN
+	1    8150 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 6200EB6B
+P 8550 2300
+F 0 "D?" V 8497 2378 50  0000 L CNN
+F 1 "LED" V 8588 2378 50  0000 L CNN
+F 2 "" H 8550 2300 50  0001 C CNN
+F 3 "~" H 8550 2300 50  0001 C CNN
+	1    8550 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 6200EB71
+P 8950 2300
+F 0 "D?" V 8897 2378 50  0000 L CNN
+F 1 "LED" V 8988 2378 50  0000 L CNN
+F 2 "" H 8950 2300 50  0001 C CNN
+F 3 "~" H 8950 2300 50  0001 C CNN
+	1    8950 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 6200EB77
+P 9350 2300
+F 0 "D?" V 9297 2378 50  0000 L CNN
+F 1 "LED" V 9388 2378 50  0000 L CNN
+F 2 "" H 9350 2300 50  0001 C CNN
+F 3 "~" H 9350 2300 50  0001 C CNN
+	1    9350 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6200EB7D
+P 8400 2950
+F 0 "R?" H 8470 2996 50  0000 L CNN
+F 1 "R" H 8470 2905 50  0000 L CNN
+F 2 "" V 8330 2950 50  0001 C CNN
+F 3 "~" H 8400 2950 50  0001 C CNN
+	1    8400 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Q_PNP_BCE Q?
+U 1 1 6200EB83
+P 8300 3550
+F 0 "Q?" H 8490 3596 50  0000 L CNN
+F 1 "Q_PNP_BCE" H 8490 3505 50  0000 L CNN
+F 2 "" H 8500 3650 50  0001 C CNN
+F 3 "~" H 8300 3550 50  0001 C CNN
+	1    8300 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6200EB8F
+P 7050 2900
+F 0 "R?" H 7120 2946 50  0000 L CNN
+F 1 "R" H 7120 2855 50  0000 L CNN
+F 2 "" V 6980 2900 50  0001 C CNN
+F 3 "~" H 7050 2900 50  0001 C CNN
+	1    7050 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 2450 1700 2450
+Connection ~ 1700 2450
+Wire Wire Line
+	1700 2450 2100 2450
+Connection ~ 2100 2450
+Wire Wire Line
+	2100 2450 2350 2450
+Connection ~ 2500 2450
+Wire Wire Line
+	2500 2450 2900 2450
+Connection ~ 2900 2450
+Wire Wire Line
+	2900 2450 3300 2450
+Wire Wire Line
+	2350 3350 2350 3200
+Wire Wire Line
+	2350 2750 2350 2450
+Connection ~ 2350 2450
+Wire Wire Line
+	2350 2450 2500 2450
+Wire Wire Line
+	9100 4200 9100 3200
+Wire Wire Line
+	9100 3200 8400 3200
+Wire Wire Line
+	8400 3200 8400 3100
+Wire Wire Line
+	6300 2150 7050 2150
+Connection ~ 6300 2150
+Connection ~ 7350 2150
+Wire Wire Line
+	7350 2150 7750 2150
+Connection ~ 7750 2150
+Wire Wire Line
+	7750 2150 8150 2150
+Connection ~ 8150 2150
+Wire Wire Line
+	8150 2150 8550 2150
+Connection ~ 8550 2150
+Wire Wire Line
+	8550 2150 8950 2150
+Connection ~ 8950 2150
+Wire Wire Line
+	8950 2150 9350 2150
+Wire Wire Line
+	7350 2450 7750 2450
+Connection ~ 7750 2450
+Wire Wire Line
+	7750 2450 8150 2450
+Connection ~ 8150 2450
+Wire Wire Line
+	8150 2450 8400 2450
+Connection ~ 8550 2450
+Wire Wire Line
+	8550 2450 8950 2450
+Connection ~ 8950 2450
+Wire Wire Line
+	8950 2450 9350 2450
+Wire Wire Line
+	8400 2800 8400 2450
+Connection ~ 8400 2450
+Wire Wire Line
+	8400 2450 8550 2450
+Wire Wire Line
+	4300 2450 4700 2450
+Connection ~ 4700 2450
+Wire Wire Line
+	4700 2450 5100 2450
+Connection ~ 5100 2450
+Wire Wire Line
+	5100 2450 5350 2450
+Connection ~ 5500 2450
+Wire Wire Line
+	5500 2450 5900 2450
+Connection ~ 5900 2450
+Wire Wire Line
+	5900 2450 6300 2450
+Wire Wire Line
+	5350 3350 5350 3150
+Wire Wire Line
+	5350 2750 5350 2450
+Connection ~ 5350 2450
+Wire Wire Line
+	5350 2450 5500 2450
+Wire Wire Line
+	4000 2150 4000 2700
+Wire Wire Line
+	4000 3550 5050 3550
+Wire Wire Line
+	4000 3000 4000 3200
+Connection ~ 4000 2150
+Wire Wire Line
+	4000 2150 4300 2150
+Wire Wire Line
+	900  4200 9100 4200
+Wire Wire Line
+	2350 3750 5350 3750
+Connection ~ 5350 3750
+Wire Wire Line
+	5350 3750 8400 3750
+Wire Wire Line
+	900  3050 900  3550
+Wire Wire Line
+	2350 3200 3050 3200
+Wire Wire Line
+	3350 3200 4000 3200
+Connection ~ 2350 3200
+Wire Wire Line
+	2350 3200 2350 3050
+Connection ~ 4000 3200
+Wire Wire Line
+	4000 3200 4000 3550
+Wire Wire Line
+	5350 3150 6400 3150
+Wire Wire Line
+	7050 2150 7050 2750
+Wire Wire Line
+	6700 3150 7050 3150
+Wire Wire Line
+	7050 3050 7050 3150
+Connection ~ 5350 3150
+Wire Wire Line
+	5350 3150 5350 3050
+Connection ~ 7050 2150
+Wire Wire Line
+	7050 2150 7350 2150
+Wire Wire Line
+	7050 3150 7050 3550
+Wire Wire Line
+	7050 3550 8100 3550
+Connection ~ 7050 3150
+Wire Wire Line
+	8400 3200 8400 3350
+Connection ~ 8400 3200
+$Comp
+L Device:LED D?
+U 1 1 62031ABA
+P 9900 3500
+F 0 "D?" V 9847 3578 50  0000 L CNN
+F 1 "LED" V 9938 3578 50  0000 L CNN
+F 2 "" H 9900 3500 50  0001 C CNN
+F 3 "~" H 9900 3500 50  0001 C CNN
+	1    9900 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 62034860
+P 9900 3050
+F 0 "R?" H 9970 3096 50  0000 L CNN
+F 1 "R" H 9970 3005 50  0000 L CNN
+F 2 "" V 9830 3050 50  0001 C CNN
+F 3 "~" H 9900 3050 50  0001 C CNN
+	1    9900 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9400 2150 9900 2150
+Wire Wire Line
+	9900 2150 9900 2900
+Wire Wire Line
+	9900 3750 8400 3750
+Wire Wire Line
+	9900 3650 9900 3750
+Wire Wire Line
+	9900 3200 9900 3350
+Connection ~ 8400 3750
+$Comp
+L Connector:Barrel_Jack_Switch J?
+U 1 1 62045ACD
+P 10450 2600
+F 0 "J?" V 10461 2780 50  0000 L CNN
+F 1 "Barrel_Jack_Switch" V 10552 2780 50  0000 L CNN
+F 2 "" H 10500 2560 50  0001 C CNN
+F 3 "~" H 10500 2560 50  0001 C CNN
+	1    10450 2600
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_SPST SW?
+U 1 1 6204693F
+P 10200 2150
+F 0 "SW?" H 10200 2385 50  0000 C CNN
+F 1 "SW_SPST" H 10200 2294 50  0000 C CNN
+F 2 "" H 10200 2150 50  0001 C CNN
+F 3 "~" H 10200 2150 50  0001 C CNN
+	1    10200 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery BT?
+U 1 1 620474CB
+P 10800 3250
+F 0 "BT?" H 10692 3204 50  0000 R CNN
+F 1 "Battery" H 10692 3295 50  0000 R CNN
+F 2 "" V 10800 3310 50  0001 C CNN
+F 3 "~" V 10800 3310 50  0001 C CNN
+	1    10800 3250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10350 2900 10350 3750
+Wire Wire Line
+	10350 3750 9900 3750
+Connection ~ 9900 3750
+Wire Wire Line
+	10450 2900 10450 3750
+Wire Wire Line
+	10450 3750 10800 3750
+Wire Wire Line
+	10800 3750 10800 3450
+Wire Wire Line
+	10800 2900 10550 2900
+Wire Wire Line
+	10800 3050 10800 2900
+Wire Wire Line
+	10000 2150 9900 2150
+Connection ~ 9900 2150
+Wire Wire Line
+	10400 2150 10800 2150
+Wire Wire Line
+	10800 2150 10800 2900
+Connection ~ 10800 2900
+$EndSCHEMATC
